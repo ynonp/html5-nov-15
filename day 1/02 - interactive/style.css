@@ -1,0 +1,22 @@
+.box {
+  width:100px;
+  height:100px;
+  border: 2px solid black;
+  display:inline-block;
+  overflow:hidden;
+  line-height:100px;
+  text-align:center;
+}
+
+#a {
+  background:yellow;
+}
+
+
+#b {
+  background:lightgreen;
+  width: 400px;
+  text-align:center;
+}
+
+
