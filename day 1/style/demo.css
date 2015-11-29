@@ -1,0 +1,37 @@
+
+p,h1,h2 {
+  font-size:16px;
+  font-weight:normal;
+  color:black;
+}
+
+p {
+  color:blue;
+}
+
+
+#maincontent {
+  font-size: 48px;
+  text-align:center;
+  border-bottom: 2px solid gray;
+}
+
+img {
+  vertical-align:middle;
+  float:left;
+}
+
+
+.red {
+  color:red;
+  background-color:lightgreen;
+}
+
+.half {
+  display:inline-block;
+  width:30%;  
+  margin:0;
+  border:0;
+  padding:0;
+}
+
